@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\ExPRJ\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3640287057.index
+32162429.index
+3186395169.index
+1224222408.index
+2634626981.index
+872075005.index
